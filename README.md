@@ -116,7 +116,7 @@ A MERN-based notes application with a REST API backend and MongoDB persistence.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AishwaryaTS-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+<img src="./trophy.svg" alt="GitHub Trophies" />
 
 </div>
 
@@ -132,7 +132,7 @@ A MERN-based notes application with a REST API backend and MongoDB persistence.
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
