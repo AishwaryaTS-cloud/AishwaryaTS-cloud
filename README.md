@@ -70,7 +70,7 @@
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
 
 ### 📚 DSA Vault
@@ -93,7 +93,7 @@ A MERN-based notes application with a REST API backend and MongoDB persistence.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -112,36 +112,21 @@ A MERN-based notes application with a REST API backend and MongoDB persistence.
 </div>
 
 ---
-
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aishwaryats-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=AishwaryaTS-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aishwaryats-cloud/aishwaryats-cloud/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,javascript" />
-
-<br><br>
-
-**React.js** • **Advanced JavaScript** • **Data Structures & Algorithms** • **Full-Stack MERN Development**
+<img src="https://raw.githubusercontent.com/AishwaryaTS-cloud/AishwaryaTS-cloud/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
