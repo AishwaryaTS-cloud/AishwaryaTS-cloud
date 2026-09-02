@@ -44,28 +44,8 @@
 
 ## 🛠️ Languages & Tools
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,javascript,python" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,python,html,css,react,nodejs,express,mongodb,mysql,docker,aws,git,github,postman&perline=8" />
 </p>
 
 ---
@@ -112,15 +92,6 @@ A MERN-based notes application with a REST API backend and MongoDB persistence.
 </div>
 
 ---
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="./trophy.svg" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 🐍 Contribution Activity
 
@@ -132,7 +103,7 @@ A MERN-based notes application with a REST API backend and MongoDB persistence.
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <div align="center">
 
