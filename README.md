@@ -77,16 +77,6 @@ A MERN-based notes application with a REST API backend and MongoDB persistence.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aishwaryats-cloud&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryats-cloud&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=aishwaryats-cloud&theme=tokyonight&hide_border=true" />
 
 </div>
