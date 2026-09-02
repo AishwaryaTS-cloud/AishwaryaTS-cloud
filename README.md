@@ -93,30 +93,6 @@ A MERN-based notes application with a REST API backend and MongoDB persistence.
 
 ---
 
-# 🧠 DSA & Problem Solving
-
-I'm actively strengthening my problem-solving skills using **C++ and Data Structures & Algorithms**.
-
-### Currently Focusing On
-
-`Arrays` • `Strings` • `Linked Lists`
-
-`Stacks` • `Queues` • `Trees`
-
-`Graphs` • `Recursion` • `Backtracking`
-
-`Dynamic Programming` • `Bit Manipulation`
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</div>
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
