@@ -1,10 +1,10 @@
-### Hi there, I'm Aishwarya! 👋
+### Hi there, I'm Aishwarya! 👋<br><br>
 
-🎓 3rd Year Information Science Engineering Student at Sir MVIT, Bangalore.
-💻 DSA enthusiast & MERN stack developer
-🚀 Building projects and solving problems
-🌱 Currently learning full-stack development
-📩 [aishwaryatsgowda02@gmail.com](mailto:aishwaryatsgowda02@gmail.com)
+🎓 3rd Year Information Science Engineering Student at Sir MVIT, Bangalore.<br>
+💻 DSA enthusiast & MERN stack developer<br>
+🚀 Building projects and solving problems<br>
+🌱 Currently learning full-stack development<br>
+📩 [aishwaryatsgowda02@gmail.com](mailto:aishwaryatsgowda02@gmail.com)<br>
 
 ---
 
